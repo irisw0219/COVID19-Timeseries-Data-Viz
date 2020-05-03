@@ -1,5 +1,5 @@
 ## COVID19-Timeseries-Data-Viz
-This tutorial was developed for recreating one of the most classic Financial Times coronavirus trackers using JHU time series data in R.  [View chart](https://irisw0219.github.io/COVID19-Timeseries-Data-Viz/.)
+This tutorial was developed for recreating one of the most classic Financial Times coronavirus trackers using JHU time series data in R. 
 
 
 ## Getting Started
